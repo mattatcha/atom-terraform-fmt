@@ -1,0 +1,22 @@
+{
+  "name": "terraform-fmt",
+  "main": "./lib/terraform-fmt",
+  "version": "0.1.0",
+  "description": "Format tf source code with terraform fmt",
+  "repository": "https://github.com/mattaitchison/atom-terraform-fmt",
+  "keywords": [
+    "terraform",
+    "fmt",
+    "tf",
+    "format"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "package-deps": [
+    "language-terraform"
+  ]
+}

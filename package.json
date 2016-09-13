@@ -1,7 +1,7 @@
 {
   "name": "terraform-fmt",
   "main": "./lib/terraform-fmt",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Format tf source code with terraform fmt",
   "repository": "https://github.com/mattaitchison/atom-terraform-fmt",
   "keywords": [
